@@ -90,9 +90,16 @@ Visualization techniques:
 
 ## Resources
 
-### Video Walkthrough
-- [Part 1: Why Math for AI + Number Fundamentals](link-to-video) (28 mins)
-- [Part 2: Python Setup + Building Calculators](link-to-video) (30 mins)
+## Video Walkthrough
+[Module 1: Math Foundations & Python Basics - Complete Walkthrough](link-to-video) (45-55 mins)
+
+Timestamps:
+- 00:00 - Introduction & Why Math for AI
+- 08:00 - Number Fundamentals Review
+- 15:00 - Python Environment Setup
+- 25:00 - Building Calculators in Python
+- 38:00 - Data Visualization with Matplotlib
+- 50:00 - Module Project & Next Steps
 
 ### Practice Materials
 - [Practice problems with solutions](resources/practice-problems.md)
@@ -163,3 +170,4 @@ Found an error? Have a suggestion? Want to share your variation of a project?
 
 *Last updated: [Date]*
 *Part of: [AI Learning Journey](../README.md)*
+
